@@ -1,0 +1,25 @@
+.SearchInput{
+    font-family: 'Gaegu', cursive;
+    margin-top: 10px;
+    border: 2px solid black;
+    border-radius: 4px; 
+    width: 300px;
+    height: 30px;   
+}
+.SearchBar{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.SearchButton{
+    width: 80px;
+    font-family: 'Gaegu', cursive;
+    margin-top: 10px;
+    border: 1px solid black;
+    border-radius: 2px; 
+
+
+}
+@media only screen and (max-width: 600px) {
+    
+}

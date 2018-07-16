@@ -1,0 +1,50 @@
+.Temp{
+    margin-top: 10px;
+    font-family: 'Gaegu', cursive;
+    font-size: 40px;
+}
+
+.minmaxTemp{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    font-family: 'Gaegu', cursive;
+    font-size: 30px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.Visiblity{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    font-family: 'Gaegu', cursive;
+    font-size: 30px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.Deg{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    font-family: 'Gaegu', cursive;
+    font-size: 30px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.Speed{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    font-family: 'Gaegu', cursive;
+    font-size: 30px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.Wind{
+    font-family: 'Gaegu', cursive;
+    font-size: 30px;
+}
